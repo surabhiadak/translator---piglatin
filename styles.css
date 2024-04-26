@@ -1,0 +1,24 @@
+#txt-input {
+  width: 50%;
+  height: 10vh;
+  display: block;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+#btn-translate {
+  margin: 1rem;
+  padding: 0.5rem;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+#output
+{
+  border: 1px solid black;
+  width: 50%;
+  height: 10vh;
+  display: block;
+  margin: 1rem;
+  padding: 1rem;
+}
